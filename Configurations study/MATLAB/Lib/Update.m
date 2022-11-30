@@ -1,4 +1,4 @@
-function [H,h,P] = Update(DH,H,h,P)
+function h = Update(DH,H,h,P)
 
 AA = Tlinks(DH);
 
