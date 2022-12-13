@@ -14,3 +14,9 @@ Configuration case 1.1.1:
 - L1 = 100;
 - L2 = 150;
 - y _ work area = -130 mm
+
+----------------
+## Simulation:
+
+Maximum torque analysis:
+Torque is maximum at the upper right and upper left points, so the four extreme points were analyzed.
