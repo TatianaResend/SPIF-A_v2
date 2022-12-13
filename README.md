@@ -6,7 +6,7 @@ Base requirements:
 ---------------
 ## Configuration
 
-The study of possible configurations is demonstrated in issues #1 to #4. After the analysis it is concluded that the best configuration is case 1.1.1.
+The study of possible configurations is demonstrated in issues #1 to #4. After the analysis it is concluded that the best configuration is case 1.1.1..
 
 Configuration case 1.1.1:
 - 2 arms in parallel (delta 2)
