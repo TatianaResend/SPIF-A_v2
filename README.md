@@ -139,8 +139,8 @@ Project Link: [SPIF-A_v2](https://github.com/TatianaResend/SPIFA-e-v2.0)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-- Professor Ricardo Sousa
-- Professor Daniel Afonso
+- Professor Ricardo Sousa - rsousa@ua.pt
+- Professor Daniel Afonso - dan@ua.pt
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
