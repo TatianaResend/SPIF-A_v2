@@ -3,7 +3,8 @@ Version 1 of the SPIF:
 - Selected binding components
 - Simulation of selected components
 
- <img src="images/SPIF-A_v2 version1.png" alt="SPIF-A" width="80" height="80">
+ <img src="https://user-images.githubusercontent.com/101273005/217353087-24efd779-5805-4b53-97cb-92e3aa5596ec.png"
+width=20% height=20%>
  
 Folder with the simulation:
 https://uapt33090-my.sharepoint.com/:f:/g/personal/tatianaresende_ua_pt/EhnLqy7rWW9Jpvjzhjw4m4YBRr73Z7guXcKzM642BJGIMg?e=5kpX5o
