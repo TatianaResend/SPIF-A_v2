@@ -149,13 +149,13 @@ Project Link: [SPIF-A_v2](https://github.com/TatianaResend/SPIFA-e-v2.0)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/TatianaResend/SPIFA-e-v2.0.svg?style=for-the-badge
-[contributors-url]: https://github.com/andrefdre/Dora_the_mug_finder_SAVI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TatianaResend/SPIFA-e-v2.0.svg?style=for-the-badge
-[forks-url]: https://github.com/TatianaResend/SPIFA-e-v2.0/network/members
-[stars-shield]: https://img.shields.io/github/stars/TatianaResend/SPIFA-e-v2.0.svg?style=for-the-badge
-[stars-url]: https://github.com/TatianaResend/SPIFA-e-v2.0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TatianaResend/SPIFA-e-v2.0.svg?style=for-the-badge
-[issues-url]: https://github.com/TatianaResend/SPIFA-e-v2.0/issues
-[license-shield]: https://img.shields.io/github/license/TatianaResend/SPIFA-e-v2.0.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
+[contributors-url]: https://github.com/TatianaResend/SPIF-A_v2/contributors
+[forks-shield]: https://img.shields.io/github/forks/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
+[forks-url]: https://github.com/TatianaResend/SPIF-A_v2/network/members
+[stars-shield]: https://img.shields.io/github/stars/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
+[stars-url]: https://github.com/TatianaResend/SPIF-A_v2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
+[issues-url]: https://github.com/TatianaResend/SPIF-A_v2/issues
+[license-shield]: https://img.shields.io/github/license/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
 [license-url]: https://github.com/TatianaResend/SPIFA-e-v2.0/blob/master/LICENSE.txt
