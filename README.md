@@ -158,4 +158,4 @@ Project Link: [SPIF-A_v2](https://github.com/TatianaResend/SPIFA-e-v2.0)
 [issues-shield]: https://img.shields.io/github/issues/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
 [issues-url]: https://github.com/TatianaResend/SPIF-A_v2/issues
 [license-shield]: https://img.shields.io/github/license/TatianaResend/SPIF-A_v2.svg?style=for-the-badge
-[license-url]: https://github.com/TatianaResend/SPIF-A_v2/blob/master/LICENSE.txt
+[license-url]: https://github.com/TatianaResend/SPIF-A_v2/blob/main/LICENSE
