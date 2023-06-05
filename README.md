@@ -74,9 +74,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-The project appears as the thesis theme of the master's degree in mechanical engineering.
-The objective of this project is the development of a compact incremental stamping machine. The machine will be electric, silent and compact to allow coexistence with 3D printers. This is a project that involves automation, applied mechanics (direct and inverse kinematics) and mechanical design. The development of this project aims to build a prototype.
-
+The project serves as the focal point of the master's thesis in mechanical engineering. The primary goal of this project is to develop a compact incremental forming machine. The machine will be electric, ensuring a silent operation and compact size to facilitate coexistence with 3D printers. To effectively cover all aspects of machine construction, the project has been divided into three key areas: machine structure design, mechanical design, and automation design.
 
 
 <!-- GETTING STARTED -->
