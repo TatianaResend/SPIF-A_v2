@@ -79,20 +79,30 @@ The project serves as the focal point of the master's thesis in mechanical engin
 
 <!-- GETTING STARTED -->
 ## Base requirements:
-- Working area of 200 x 200 mm with 100 mm depth
-- Aluminum Forming 5000 Series
+
+|  |  |
+| --- | --- |
+| Working area  | 200 x 200 mm  |
+| Vertical stroke  | 100 mm  |
+| Sheet thickness  | 0,5 to 3 mm |
+| Sheet material   | aluminum |
+| Conformation forces | 3 kN (vert.) 1 kN (hor.) |
 
 
 
 ## Architecture
 
-The study of possible configurations is demonstrated in issues #1 to #4. After the analysis it is concluded that the best configuration is case 1.1.1..
+The study of possible configurations is demonstrated in issues [#1](/../../issues/1) to [#4](/../../issues/4). After the analysis it is concluded that the best configuration is case 1.1.1..
+To choose the best configuration, the lowest possible torque was taken into account.
 
 - 2 arms in parallel (delta 2)
 - Distance between motors: 50 mm
-- L1 = 100;
+- L1 = 120;
 - L2 = 150;
-- y _ work area = -130 mm
+- y _ work area = -320 mm
+- Maximum torque: 665 Nm 
+
+## Direct and indirect kinematic analysis:
 
 
 ## Simulation:
