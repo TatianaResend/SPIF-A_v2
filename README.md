@@ -74,10 +74,11 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-The project serves as the focal point of the master's thesis in mechanical engineering. The primary goal of this project is to develop a compact incremental forming machine. The machine will be electric, ensuring a silent operation and compact size to facilitate coexistence with 3D printers. To effectively cover all aspects of machine construction, the project has been divided into three key areas: machine structure design, mechanical design, and automation design.
-
+The project serves as the focal point of the master's thesis in mechanical engineering. The primary goal of this project is to develop a compact incremental forming machine. The machine will be electric, ensuring a silent operation and compact size to facilitate coexistence with 3D printers. To effectively cover all aspects of machine construction, the project has been divided into three key areas: machine structure design, mechanical project, and automation project.
 
 <!-- GETTING STARTED -->
+# Machine structure design
+
 ## Base requirements:
 
 |  |  |
@@ -103,14 +104,24 @@ To choose the best configuration, the lowest possible torque was taken into acco
 - Maximum torque: 665 Nm 
 
 ## Direct and indirect kinematic analysis:
+The direct and indirect kinematics are represented in the issue [#16](/../../issues/16) and in chapter 3.3 of the thesis document.
 
+# Mechanical project
+Mechanical projects steps:
+- Arm design
+- Support system for the forming punch
+- Selection and sizing of the motor-reducer set
+- Selection and sizing of the linear motor-autorator set
+- Structural configuration
+- Simulation
 
-## Simulation:
-Maximum torque analysis: Torque is maximum at the upper right and upper left points, so the four extreme points were analyzed.
-
+# Automation project
+- Wiring diagram and main components
+- Motion Control
+- SPIF-A_v2 GUI
 
 <!-- CONTRIBUTING -->
-## Contributing
+# Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -126,7 +137,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the GPL License. See `LICENSE.txt` for more information.
 
@@ -135,18 +146,18 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Tatiana Resende - tatianaresende@ua.pt
 
 Project Link: [SPIF-A_v2](https://github.com/TatianaResend/SPIFA-e-v2.0)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+### Acknowledgements
 - Professor Ricardo Sousa - rsousa@ua.pt
 - Professor Daniel Afonso - dan@ua.pt
 
