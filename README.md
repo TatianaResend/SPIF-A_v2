@@ -107,7 +107,7 @@ To choose the best configuration, the lowest possible torque was taken into acco
 - Maximum torque: 665 Nm 
 
 ## Direct and indirect kinematic analysis:
-The direct and indirect kinematics are represented in the issue [#16](/../../issues/16) and in chapter 3.3 of the thesis document.
+The direct and indirect kinematics are represented in the issue [#16](/../../issues/16) and in chapter 3.3 of the [thesis](https://github.com/TatianaResend/SPIF-A_v2/blob/main/Master's%20thesis.pdf) document.
 <img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/9365f7bd-44d3-4ec3-9fc7-720f329987b6.png" width=30% height=30%>
 
 
@@ -126,7 +126,7 @@ Mechanical projects steps:
 <img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/8d5751aa-e6f6-4083-bc22-956f0d9e8603" width=19% height=19%>
 
 ### Simulation:
-Two types of simulations were carried out using Solidworks: **with motion analysis** and **static** . Both analyzes are described in section 4.6.1 and 4.6.2, respectively, in the thesis document. Some steps for carrying out the simulations are described in the issue [#5](/../../issues/5).
+Two types of simulations were carried out using Solidworks: **with motion analysis** and **static** . Both analyzes are described in section 4.6.1 and 4.6.2, respectively, in the [thesis](https://github.com/TatianaResend/SPIF-A_v2/blob/main/Master's%20thesis.pdf) document. Some steps for carrying out the simulations are described in the issue [#5](/../../issues/5).
 
 
 # Automation project
@@ -144,7 +144,7 @@ Automation projects steps:
   <img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/43c28ed0-4fef-4016-a01a-b9f64436339f" width=60% height=60%>
 </p>
 
-All steps of the automation project as well as its implementation are described in chapters 5 and 6.2 of the thesis document. It is also possible to find some information in the issues [#15](/../../issues/15), [#17](/../../issues/17) - [#20](/../../issues/20), [#22](/../../issues/22) e [#23](/../../issues/23). The developed code can be found [here](https://github.com/TatianaResend/SPIF-A_v2/tree/main/CODE). The controller program was carried out in the **Arduino IDE** platform and the code for the GUI in **MATLAB.**
+All steps of the automation project as well as its implementation are described in chapters 5 and 6.2 of the [thesis](https://github.com/TatianaResend/SPIF-A_v2/blob/main/Master's%20thesis.pdf) document. It is also possible to find some information in the issues [#15](/../../issues/15), [#17](/../../issues/17) - [#20](/../../issues/20), [#22](/../../issues/22) e [#23](/../../issues/23). The developed code can be found [here](https://github.com/TatianaResend/SPIF-A_v2/tree/main/CODE). The controller program was carried out in the **Arduino IDE** platform and the code for the GUI in **MATLAB.**
 
 
 
