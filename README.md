@@ -55,18 +55,19 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#machine-structure-design">Machine structure design</a>
       <ul>
         <li><a href="#base-requirements">Base requirements</a></li>
         <li><a href="#architecture">Architecture</a></li>
-        <li><a href="#simulation">Simulation</a></li>
+        <li><a href="#direct-and-indirect-kinematic-analysis">Direct and indirect kinematic analysis</a></li>
       </ul>
     </li>
+    <li><a href="#mechanical-project">Mechanical project</a></li>
+    <li><a href="#automation-project">Automation project</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -93,7 +94,7 @@ The project serves as the focal point of the master's thesis in mechanical engin
 
 
 
-## Architecture
+## Architecture:
 
 The study of possible configurations is demonstrated in issues [#1](/../../issues/1) to [#4](/../../issues/4). After the analysis it is concluded that the best configuration is case 1.1.1..
 To choose the best configuration, the lowest possible torque was taken into account.
@@ -107,6 +108,8 @@ To choose the best configuration, the lowest possible torque was taken into acco
 
 ## Direct and indirect kinematic analysis:
 The direct and indirect kinematics are represented in the issue [#16](/../../issues/16) and in chapter 3.3 of the thesis document.
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/9365f7bd-44d3-4ec3-9fc7-720f329987b6.png" width=30% height=30%>
+
 
 # Mechanical project
 Mechanical projects steps:
@@ -115,12 +118,35 @@ Mechanical projects steps:
 - Selection and sizing of the motor-reducer set
 - Selection and sizing of the linear motor-autorator set
 - Structural configuration
-- Simulation
+
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/3638eda4-46c4-4937-a888-debe48217e3f" width=20% height=20%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/d7db7155-1815-445b-a1a0-db607d34304b" width=20% height=20%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c62adb34-54c9-4bbd-81ea-67fe2a8f1001" width=19% height=19%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c984a72b-4d1d-488c-af39-7cf8f59d6c0e" width=20% height=20%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/8d5751aa-e6f6-4083-bc22-956f0d9e8603" width=19% height=19%>
+
+### Simulation:
+Two types of simulations were carried out using Solidworks: **with motion analysis** and **static** . Both analyzes are described in section 4.6.1 and 4.6.2, respectively, in the thesis document. Some steps for carrying out the simulations are described in the issue [#5](/../../issues/5).
+
 
 # Automation project
-- Wiring diagram and main components
-- Motion Control
-- SPIF-A_v2 GUI
+Automation projects steps:
+- Wiring Diagram and Main Components
+- Power Circuit
+- Controller (**Controllino MEGA**)
+- Drive (**CL86T Closed-loop Stepper Drive**)
+- Security Elements
+- Switchboard
+- Motion Control: Implementation of Kinematics, Determination of the Number of Pulses, Incremental Positioning
+- Graphic User Interface: Manual Mode, Automatic Mode, Information Page
+
+<p align="center">
+  <img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/43c28ed0-4fef-4016-a01a-b9f64436339f" width=60% height=60%>
+</p>
+
+All steps of the automation project as well as its implementation are described in chapters 5 and 6.2 of the thesis document. It is also possible to find some information in the issues [#15](/../../issues/15), [#17](/../../issues/17) - [#20](/../../issues/20), [#22](/../../issues/22) e [#23](/../../issues/23). The developed code can be found [here](https://github.com/TatianaResend/SPIF-A_v2/tree/main/CODE). The controller program was carried out in the **Arduino IDE** platform and the code for the GUI in **MATLAB.**
+
+
 
 <!-- CONTRIBUTING -->
 # Contributing
@@ -135,7 +161,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
