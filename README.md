@@ -83,11 +83,13 @@ The project serves as the focal point of the master's thesis in mechanical engin
 
 |  |  |
 | --- | --- |
+| Number of axels | 3 |
 | Working area  | 200 x 200 mm  |
 | Vertical stroke  | 100 mm  |
 | Sheet thickness  | 0,5 to 3 mm |
 | Sheet material   | aluminum |
 | Conformation forces | 3 kN (vert.) 1 kN (hor.) |
+| Motors           | Nema 34 |
 
 
 
