@@ -119,11 +119,11 @@ Mechanical projects steps:
 - Selection and sizing of the linear motor-autorator set
 - Structural configuration
 
-<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/3638eda4-46c4-4937-a888-debe48217e3f" width=20% height=20%>
-<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/d7db7155-1815-445b-a1a0-db607d34304b" width=20% height=20%>
-<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c62adb34-54c9-4bbd-81ea-67fe2a8f1001" width=19% height=19%>
-<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c984a72b-4d1d-488c-af39-7cf8f59d6c0e" width=20% height=20%>
-<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/8d5751aa-e6f6-4083-bc22-956f0d9e8603" width=19% height=19%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/3638eda4-46c4-4937-a888-debe48217e3f" width=19% height=19%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/d7db7155-1815-445b-a1a0-db607d34304b" width=19% height=19%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c62adb34-54c9-4bbd-81ea-67fe2a8f1001" width=18% height=18%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/c984a72b-4d1d-488c-af39-7cf8f59d6c0e" width=19% height=19%>
+<img src="https://github.com/TatianaResend/SPIF-A_v2/assets/101273005/8d5751aa-e6f6-4083-bc22-956f0d9e8603" width=18% height=18%>
 
 ### Simulation:
 Two types of simulations were carried out using Solidworks: **with motion analysis** and **static** . Both analyzes are described in section 4.6.1 and 4.6.2, respectively, in the [thesis](https://github.com/TatianaResend/SPIF-A_v2/blob/main/Master's%20thesis.pdf) document. Some steps for carrying out the simulations are described in the issue [#5](/../../issues/5).
